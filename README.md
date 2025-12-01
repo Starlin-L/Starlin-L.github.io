@@ -6,5 +6,5 @@
 ## Enhancement One: Software Design and Engineering
 
 * [Enhancement Narrative](3-2%20Milestone%20Two_%20Enhancement%20One_%20Software%20Design%20and%20Engineering%20-%20Luciano.docx)
-* [View Enhanced Code (MVC Folder)](enhanced_mvc)
+* [View Enhanced Code (MVC Folder)](https://github.com/Starlin-L/Starlin-L.github.io/tree/main/enhanced_mvc)
 * [View Original Artifact](TopFiveDestinationList.java)
